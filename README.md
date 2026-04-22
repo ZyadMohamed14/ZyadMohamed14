@@ -33,7 +33,7 @@
       </p>
       <br/>
       <p>
-        🔭 &nbsp;Currently working at <strong>ATW Ltd.</strong><br/>
+        🔭 &nbsp;Currently working at <strong>Nasam Technology.</strong><br/>
         🌱 &nbsp;Always levelling up in <strong>Flutter & Android</strong><br/>
         🤝 &nbsp;Open to <strong>freelance & open-source</strong> projects<br/>
         💬 &nbsp;Ask me about <strong>MVVM, BLoC, Clean Architecture</strong><br/>
