@@ -118,6 +118,25 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🚚 Nasam Tracking</h3>
+      <p><strong>Platform:</strong> Android (Native)</p>
+      <p>Live GPS fleet & vehicle tracking app. Real-time locations, trip history, speed & geofence alerts, engine control, user/vehicle management, and multi-language support (EN, AR, FR, ES).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XML_Views-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MVVM-00C9FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Clean_Architecture-1a1f35?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.nasam.sts">
+          <img src="https://img.shields.io/badge/View_on-Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🍽️ Nay – Restaurant & Café</h3>
       <p><strong>Platforms:</strong> Android · iOS · Web</p>
       <p>Full-featured restaurant & café app with menu browsing, order placement, and real-time delivery tracking. Integrated Google Maps, push notifications, and offline support.</p>
@@ -130,6 +149,8 @@
         <img src="https://img.shields.io/badge/Drift_SQLite-003B57?style=flat-square"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>⚽ Footy Fan</h3>
       <p><strong>Platforms:</strong> Android · iOS</p>
@@ -143,8 +164,6 @@
         <img src="https://img.shields.io/badge/MVVM-00C9FF?style=flat-square"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🤲 Duaa</h3>
       <p><strong>Platforms:</strong> Android · iOS</p>
@@ -157,6 +176,8 @@
         <img src="https://img.shields.io/badge/Local_Notifications-7F52FF?style=flat-square"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧆 Mama Mona</h3>
       <p><strong>Platforms:</strong> Android · iOS</p>
@@ -168,6 +189,8 @@
         <img src="https://img.shields.io/badge/MVVM-00C9FF?style=flat-square"/>
         <img src="https://img.shields.io/badge/Push_Notifications-FF6F00?style=flat-square"/>
       </p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
