@@ -12,8 +12,6 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zyad-muhammed/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zyadmohamed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/zyadmohamed)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zyadmuhammed05@gmail.com)
 [![Location](https://img.shields.io/badge/New_Cairo,_Egypt-25A244?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -136,6 +134,24 @@
         </a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🏥 CareLine</h3>
+      <p><strong>Platform:</strong> Flutter (Android · iOS)</p>
+      <p>Clinic booking & live queue management app for a client (Nour Nabil). Instant appointment booking, real-time queue tracking, profile management, and booking history.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MVVM-00C9FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Live_Queue-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Push_Notifications-7F52FF?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.careLine.app">
+          <img src="https://img.shields.io/badge/View_on-Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🍽️ Nay – Restaurant & Café</h3>
       <p><strong>Platforms:</strong> Android · iOS · Web</p>
