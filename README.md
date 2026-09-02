@@ -164,6 +164,17 @@
         <img src="https://img.shields.io/badge/Dio-0175C2?style=flat-square"/>
         <img src="https://img.shields.io/badge/Drift_SQLite-003B57?style=flat-square"/>
       </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.Nay.efood">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"/>
+        </a>
+        <a href="https://apps.apple.com/eg/app/nay-restaurant/id6741190324">
+          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/>
+        </a>
+        <a href="https://naycity.org/about-us">
+          <img src="https://img.shields.io/badge/Website-00C9FF?style=flat-square&logo=safari&logoColor=white"/>
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -179,6 +190,14 @@
         <img src="https://img.shields.io/badge/Localization-25A244?style=flat-square"/>
         <img src="https://img.shields.io/badge/MVVM-00C9FF?style=flat-square"/>
       </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.footyfan">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"/>
+        </a>
+        <a href="https://apps.apple.com/eg/app/footyfan/id6745983340">
+          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/>
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🤲 Duaa</h3>
@@ -190,6 +209,14 @@
         <img src="https://img.shields.io/badge/WorkManager-3DDC84?style=flat-square"/>
         <img src="https://img.shields.io/badge/AI_Model-FF6F00?style=flat-square"/>
         <img src="https://img.shields.io/badge/Local_Notifications-7F52FF?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=atw.duaaa">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"/>
+        </a>
+        <a href="https://apps.apple.com/eg/app/%D8%AF%D8%B9%D8%A7%D8%A6%D9%8A/id6648793425">
+          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -205,8 +232,32 @@
         <img src="https://img.shields.io/badge/MVVM-00C9FF?style=flat-square"/>
         <img src="https://img.shields.io/badge/Push_Notifications-FF6F00?style=flat-square"/>
       </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.mamamona.efood">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"/>
+        </a>
+        <a href="https://apps.apple.com/eg/app/mama-mona/id6752600179">
+          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/>
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
+      <h3>📜 Kemet</h3>
+      <p><strong>Platforms:</strong> Android · iOS</p>
+      <p>Interactive storytelling app taking users through immersive narrative experiences with rich visuals and audio.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MVVM-00C9FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Interactive_Storytelling-FF6F00?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.atw.kemet">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"/>
+        </a>
+        <a href="https://apps.apple.com/eg/app/kemet/id6751043029">
+          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
