@@ -114,7 +114,7 @@
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
+  <!-- <tr>
     <td width="50%" valign="top">
       <h3>🚚 Nasam Tracking</h3>
       <p><strong>Platform:</strong> Android (Native)</p>
@@ -134,7 +134,7 @@
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top"> -->
       <h3>🏥 CareLine</h3>
       <p><strong>Platform:</strong> Flutter (Android · iOS)</p>
       <p>Clinic booking & live queue management app for a client (Nour Nabil). Instant appointment booking, real-time queue tracking, profile management, and booking history.</p>
